@@ -1,2 +1,2 @@
 # suga-pj
-std-git
+# sugano
